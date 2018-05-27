@@ -1,6 +1,6 @@
 # Site of Real Estate Agency
 
-[TODO. There will be project description]
+In order to make html markup the way it have to be,  I use markup validator service. And now, look at this [site](https://kostyadevman.github.io/21_valid_markup/index.html)
 
 # Project Goals
 
